@@ -16,6 +16,7 @@ Space: Kick
 
 
 Player 2 Controls:
+
 Left Arrow (<): Move Left <br>
 Right Arrow (>): Move Right <br>
 Up Arrow: Jump <br>
