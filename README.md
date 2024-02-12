@@ -9,13 +9,21 @@ Game Controls:
 Player 1 Controls:
 
 A: Move Left
+
 D: Move Right
+
 W: Jump
+
 Space: Kick
+
 Player 2 Controls:
 
 Left Arrow (<): Move Left
+
 Right Arrow (>): Move Right
+
 Up Arrow: Jump
+
 Down Arrow: Kick
+
 Experience the thrill of combat as you engage in this dynamic battle of skill and wit. Are you ready to emerge victorious? Play now and let the battle begin!
