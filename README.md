@@ -13,8 +13,7 @@ A: Move Left
 
 D: Move Right
 
-W: Jump
-
+W: Jump <br>
 Space: Kick
 
 
