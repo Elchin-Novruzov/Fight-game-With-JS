@@ -6,7 +6,7 @@ LinkedIn Link: [Fight-game-With-JS](https://www.linkedin.com/posts/elchin-novruz
 
 Game Controls:
 
-
+ <br>
 Player 1 Controls:
 
 A: Move Left <br>
@@ -14,7 +14,7 @@ D: Move Right <br>
 W: Jump <br>
 Space: Kick
 
-
+ <br>
 Player 2 Controls:
 
 Left Arrow (<): Move Left <br>
