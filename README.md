@@ -9,22 +9,16 @@ Game Controls:
 
 Player 1 Controls:
 
-A: Move Left
-
-D: Move Right
-
+A: Move Left <br>
+D: Move Right <br>
 W: Jump <br>
 Space: Kick
 
 
 Player 2 Controls:
-
-Left Arrow (<): Move Left
-
-Right Arrow (>): Move Right
-
-Up Arrow: Jump
-
+Left Arrow (<): Move Left <br>
+Right Arrow (>): Move Right <br>
+Up Arrow: Jump <br>
 Down Arrow: Kick
 
 
