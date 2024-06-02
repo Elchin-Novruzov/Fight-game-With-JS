@@ -2,7 +2,8 @@ Exciting 2-Player Local Fight Game: Play Now!
 
 Dive into an exhilarating local multiplayer brawl with this JavaScript-based web game crafted by Elchin Novruzov. Challenge your friends or family to an intense showdown where lightning-fast reflexes and strategic maneuvers reign supreme.
 
-LinkedIn(Preview) Link: [Fight-game-With-JS](https://www.linkedin.com/posts/elchin-novruzov_2-player-local-fight-game-with-js-dive-activity-7162763508487553024-b0c_?utm_source=share&utm_medium=member_android)
+![port68](https://github.com/Elchin-Novruzov/Fight-game-With-JS/assets/88887189/f1ae6c62-348e-4a80-81b7-c62667dfef20)
+
 
 Game Controls:
 
